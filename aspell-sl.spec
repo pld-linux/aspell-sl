@@ -18,7 +18,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Slovene dictionary (i.e. word list) for aspell.
 
 %description -l pl
-S這wnik s這we雟ki (lista s堯w) dla aspella.
+S這wnik (lista s堯w) s這we雟ki dla aspella.
 
 %prep
 %setup -q -n %{name}-%{version}-%{subv}
