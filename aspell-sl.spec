@@ -1,5 +1,5 @@
 Summary:	Slovene dictionary for aspell
-Summary(pl.UTF-8):   Słownik słoweński dla aspella
+Summary(pl.UTF-8):	Słownik słoweński dla aspella
 Name:		aspell-sl
 Version:	0.50
 %define	subv	0
